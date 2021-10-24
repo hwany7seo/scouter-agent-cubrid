@@ -53,7 +53,7 @@ public class Main {
             HttpConnect.cubrid_cms_user_passwd = "admin";
         }
         if (HttpConnect.cubrid_db_user_name == null) {
-            httpConnect.cubrid_db_user_name = "dba";
+            HttpConnect.cubrid_db_user_name = "dba";
         }
         if (HttpConnect.cubrid_db_user_passwd == null) {
             HttpConnect.cubrid_db_user_passwd = "";
