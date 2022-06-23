@@ -7,8 +7,8 @@ Installation and setup are simple described below.
 ## Souter Server 
 
 #### 1. File download. 
-- Scouter Version 2.15.0+
-- https://github.com/scouter-project/scouter/releases/tag/v2.15.0
+- Scouter Version 2.17.1+
+- https://github.com/scouter-project/scouter/releases/tag/v2.17.1
 
 #### 2. Decompress the downloaded file.
 <p>decompress to any directory you want to.</p>
