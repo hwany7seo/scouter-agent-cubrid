@@ -3,8 +3,8 @@ For Monitoring CUBRID DBMS (https://github.com/CUBRID/cubrid)
 
  * Important
    - CUBRID 10.2.1 Version or later is required to use all features.
-   - CUBRID Agent is supported since scouter version 2.15.0.
-     (https://github.com/scouter-project/scouter/releases/tag/v2.15.0)
+   - CUBRID Agent is supported since scouter version 2.17.1.
+     (https://github.com/scouter-project/scouter/releases/tag/v2.17.1)
 
 ## HOW TO BUILD SCOUTER-AGENT-CUBRID
 
